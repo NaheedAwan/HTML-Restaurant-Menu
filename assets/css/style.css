@@ -18,17 +18,18 @@ li {
 }
 
 img {
-    width: 100%;
-    height: auto;
+    width: 50%;
+    height: 20%;
     max-width: 100%;
 }
 
 main {
     margin: 0 20%;
+    color: blue;
 }
 
 nav {
-    background-color: beige;
+    background-color: rgb(220, 245, 235);
     padding: 10px;
 }
 
